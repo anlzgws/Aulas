@@ -7,3 +7,30 @@ h2{
     text-align: center;
     color: cadetblue;
 }
+
+.Vermelho {
+    background-color: #fc2727b4;
+    color: white;
+}
+
+.Laranja {
+    background-color: #ff8c19a8;
+    color: white;
+}
+
+
+.Amarelo {
+    background-color: #ffff00c2;
+    color: white;
+}
+
+.Verde {
+    background-color: #00ff00a9;
+    color: white;
+}
+
+.Azul {
+    background-color: #4444ffe3;
+    color: white;
+
+}
